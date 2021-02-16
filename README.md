@@ -25,11 +25,10 @@ pip install -r requirements.txt
 
 ### Usage
 
-``` 
-
 Move the file(s) to encrypt
+```
 python kronocrypt.py
+```
 The EXE File is locatred in the dist folder
 Delete build, dist, out.spec
 
-```
