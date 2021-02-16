@@ -1,13 +1,19 @@
 # KronoCrypt
 
+
+### What is KronoCrypt
 KronoCrypt is a tool, that lets you lock files, and prevent other people from seeing it. It is a easy to use python script
 
-## Installation
+### Installation
 
-* First clone the repo.
-* Next create a folder called encrypt
-* You are ready to go
+Linux / Mac
+```
+git clone https://github.com/bigboy32/KronoCrypt/
+mkdir encrypt ````
+pip install -r requirements.txt 
 
-## Usage
+```
 
-* python kronocrypt.py
+### Usage
+
+``` python kronocrypt.py ```
