@@ -16,4 +16,8 @@ pip install -r requirements.txt
 
 ### Usage
 
-``` python kronocrypt.py ```
+``` 
+
+python kronocrypt.py
+
+```
